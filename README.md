@@ -1,2 +1,4 @@
 # Hitesh
-This is my first Git Repository  Author - Hitesh
+This is my first Git Repository 
+<br>
+Author - Hitesh
